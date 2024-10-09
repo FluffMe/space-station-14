@@ -77,4 +77,4 @@
 - type: entity
   parent: [ClothingHeadBandBase, ClothingMaskBandBrown]
   id: ClothingHeadBandBrown
-  name: brown bandana
+  name: test change
